@@ -1,5 +1,1 @@
-*
-!.dll
-!.gitignore
-!.addin
-
+*.json

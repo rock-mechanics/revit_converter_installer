@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+	<Name>convert_dwg</Name>
+    <Assembly>RevitConverterAddin/bgs_rfa_to_model.dll</Assembly>
+	<FullClassName>bgs_rfa_to_model.main</FullClassName>
+	<Text>convert_dwg</Text>
+	<Description>generate a model using position info and dwg block collections</Description>
+	<VisibilityMode>AlwaysVisible</VisibilityMode>
+	<AddInId>502fe383-2648-4e98-adf8-5e6047f9dc35</AddInId>
+	<VendorId>BG</VendorId>
+    <VendorDescription>Beumer Group Singapore, chen.jing@beumer.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>
